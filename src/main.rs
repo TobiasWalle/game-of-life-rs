@@ -1,3 +1,3 @@
 fn main() {
-    dbg!(1 + 2);
+    println!("Hello World");
 }
