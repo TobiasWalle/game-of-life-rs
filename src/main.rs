@@ -1,3 +1,5 @@
+use game_of_life::hello;
+
 fn main() {
-    println!("Hello World");
+    hello();
 }
