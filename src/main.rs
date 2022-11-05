@@ -9,5 +9,4 @@ fn main() {
 #[test]
 fn test_sum() {
     assert_eq!(sum(1, 2), 3);
-    assert_eq!(sum(1, 2), 4);
 }
